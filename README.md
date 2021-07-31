@@ -39,3 +39,12 @@ You can check out our all features through this short video
 
 [Dermstore_clone](https://drive.google.com/file/d/17d-s6rXY4CisoGuqMjeGqUvh-pDsi3bO/view?usp=sharing)
 
+## Snapshots
+
+### Home Page - 
+![Dermstore1](https://github.com/soumyadri/Dermstore_clone/blob/master/images/dermstore-sample1.png)
+### Product Page
+![Dermstore2](https://github.com/soumyadri/Dermstore_clone/blob/master/images/dermstore-sample2.png)
+### Cart Page
+![Dermstore3](https://github.com/soumyadri/Dermstore_clone/blob/master/images/dermstore-sample3.png)
+
